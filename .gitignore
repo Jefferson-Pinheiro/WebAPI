@@ -1,0 +1,29 @@
+# Diretórios do Visual Studio
+.vs/
+.vscode/
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Ignorar a pasta Migrations
+Migrations/
+
+# Ignorar o arquivo appsettings.Development
+appsettings.Development.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Runtime generated files
+.lock.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Pastas específicas que você quer ignorar
+pasta_que_nao_quero/
+outra_pasta_que_nao_quero/
